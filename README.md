@@ -1,9 +1,8 @@
 # Takumi Katayama
 
-### I AM ARTIST!!!!
+### I am takurinton!!!✌️✌️✌️
 
-![](https://takurinton.com/images/Screen_Shot_2020-08-30_at_5.50.45_PM.png)
-
+![](https://cancan.pythonanywhere.com/images/icon.jpg)
 
 ## mysite 
 - [portfolio](https://takurinton.com)
