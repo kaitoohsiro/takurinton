@@ -8,6 +8,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurinton" />
 </a>
 
+## skill
+- Go
+- TypeScript
+- JavaScript 
+- Python
+- HTML/CSS
+
 ## mysite 
 - [portfolio](https://takurinton.com)
 - [blog](https://blog.takurinton.com)
