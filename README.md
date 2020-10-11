@@ -10,10 +10,15 @@
 
 ## skill
 - Go
-- TypeScript
-- JavaScript 
+  - Ad technology
+  - Software
+- JavaScript/TypeScript
+  - Web frontend
 - Python
+  - ML
+  - Django
 - HTML/CSS
+  - Web design
 
 ## mysite 
 - [portfolio](https://takurinton.com)
