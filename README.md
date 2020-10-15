@@ -8,17 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurinton" />
 </a>
 
-## skill
-- Go
-  - Ad technology
-  - Software
-- JavaScript/TypeScript
-  - Web frontend
-- Python
-  - ML
-  - Django
-- HTML/CSS
-  - Web design
 
 ## mysite 
 - [portfolio](https://takurinton.com)
