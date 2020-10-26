@@ -13,3 +13,4 @@
 - [portfolio](https://takurinton.com)
 - [blog](https://blog.takurinton.com)
 - [picture](https://photorinton.takurinton.com)
+- [dairy](https://dairyreport.takurinton.com/dairy)
