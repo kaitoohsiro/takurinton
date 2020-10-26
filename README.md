@@ -1,12 +1,12 @@
 # Takumi Katayama
 
 ### I am takurinton!!!✌️✌️✌️
-<div>
+<a>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=takurinton&count_private=true&show_icons=true" />
-</div>
-<div>
+</a>
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurinton" />
-</div>
+</a>
 
 
 ## mysite 
