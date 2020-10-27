@@ -38,9 +38,24 @@
 - Kimchi(Spicy food🌶🥵)
 - Vim🖥😵
 
-## Works
-- Former Student Internships at Sysnect (2020/2)
-- Former Student Internships at D2C (2020/2)
-- Former Student Internships at VOYAGE GROUP (2020/8)
-- Former Student Internships at CyberAgent (2020/9)
-- Former Student Internships at Rakuten (2020/9)
+## Internship
+- Former Student Internships at Sysnect 
+  - 2020/2
+  - Web backend developmend
+  - PHP and MySQL
+- Former Student Internships at D2C 
+  - 2020/2
+  - Ad technology
+  - Flask/Python
+- Former Student Internships at VOYAGE GROUP 
+  - 2020/8
+  - Team development
+  - preact/JavaScript, Go, AWS
+- Former Student Internships at CyberAgent
+  - 2020/9
+  - Ad technology of Ameba
+  - Go
+- Former Student Internships at Rakuten
+  - 2020/9
+  - Team development
+  - React/JavaScript, Django/Python
