@@ -16,18 +16,17 @@
 
 ## Skill 
 - Language
-  - Go💪
-  - TypeScript/JavaScript✨💖
-  - Python✨✴️
+  - Go💨
+  - TypeScript/JavaScript🎉
+  - Python🐍
 - Framework
-  - Django✌️✌️🍕
-  - React✨🍕
-  - Vue👍👌
-  - gin🍕✨
+  - Django🎵
+  - React❗️
+  - Vue👀
+  - gin🍕
 - Other
   - Docker🐳
-  - MySQL✨✨
-
+  - MySQL📄
 
 ## Like
 - Running🎽🏃‍♀️💨
@@ -38,13 +37,13 @@
 ## Dislike
 - Cockroach😭
 - Kimchi(Spicy food🌶🥵)
-- Vim🖥😵
+- Vim🖥
 
 ## Internship
 - **Former Student Internships at Sysnect**
   - 2020/2
   - Web backend developmend
-  - PHP and MySQL
+  - PHP, MySQL, On premises server
 - **Former Student Internships at D2C**
   - 2020/2
   - Ad technology
@@ -53,11 +52,15 @@
   - 2020/8
   - Team development
   - preact/JavaScript, Go, AWS
+  - [blog](https://blog.takurinton.com/post/17)
 - **Former Student Internships at CyberAgent**
   - 2020/9
+  - Employment type
   - Ad technology of Ameba
   - Go
+  - [blog](https://blog.takurinton.com/post/18)
 - **Former Student Internships at Rakuten**
   - 2020/9
   - Team development
   - React/JavaScript, Django/Python
+  - [blog](https://blog.takurinton.com/post/19)
