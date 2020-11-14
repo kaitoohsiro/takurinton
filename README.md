@@ -53,16 +53,16 @@
   - 2020/8
   - Team development
   - preact/JavaScript, Go, AWS
-  - [blog](https://blog.takurinton.com/post/17)
+  - [blog](https://www.takurinton.com/post/17)
 - **Former Student Internships at CyberAgent**
   - 2020/9
   - Employment type
   - Ad technology of Ameba
   - Go
-  - [blog](https://blog.takurinton.com/post/18)
+  - [blog](https://www.takurinton.com/post/18)
 - **Former Student Internships at Rakuten**
   - 2020/9
   - Team development
   - React/JavaScript, Django/Python
-  - [blog](https://blog.takurinton.com/post/19)
+  - [blog](https://www.takurinton.com/post/19)
 
